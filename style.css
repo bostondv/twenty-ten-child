@@ -1,0 +1,19 @@
+/*
+Theme Name: Twenty Ten Child
+Theme URI: http://pomelodesign.com/
+Description: Our basic child theme for Twenty Ten
+Author: Pomelo Design Inc.
+Author URI: http://pomelodesign.com/
+Template: twentyten
+Version: 1.0
+*/
+
+/* THIS FILE IS ONLY USED TO DEFINE THE PARENT THEME. STYLES ARE DEFINED IN /CSS/, WELL, ACTUALLY /SRC/ FOR THE SASS FILES... */
+
+@import url("../twentyten/style.css");
+
+@import url("css/screen.css");
+
+@media print {
+    @import url("css/print.css");
+}
