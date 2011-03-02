@@ -1,0 +1,3 @@
+# Twenty Ten child theme base
+
+Not much to say here right now...
